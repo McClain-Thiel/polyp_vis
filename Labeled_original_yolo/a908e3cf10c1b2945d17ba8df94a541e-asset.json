@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "a908e3cf10c1b2945d17ba8df94a541e",
+        "name": "49.png",
+        "path": "file:/Users/McClain/Desktop/polyp_vis/original_png/49.png",
+        "size": {
+            "width": 384,
+            "height": 288
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "pb4RNxLEo",
+            "type": "RECTANGLE",
+            "tags": [
+                "polyp"
+            ],
+            "boundingBox": {
+                "height": 134.6904859967051,
+                "width": 182.70333745364647,
+                "left": 63.181705809641535,
+                "top": 153.30951400329488
+            },
+            "points": [
+                {
+                    "x": 63.181705809641535,
+                    "y": 153.30951400329488
+                },
+                {
+                    "x": 245.88504326328803,
+                    "y": 153.30951400329488
+                },
+                {
+                    "x": 245.88504326328803,
+                    "y": 288
+                },
+                {
+                    "x": 63.181705809641535,
+                    "y": 288
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

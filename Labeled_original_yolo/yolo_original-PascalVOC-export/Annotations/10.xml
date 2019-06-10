@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>10.png</filename>
+    <path>yolo_original-PascalVOC-export/Annotations/10.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>384</width>
+        <height>288</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>polyp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>44.17305315203956</xmin>
+        <ymin>72.05560131795717</ymin>
+        <xmax>149.86650185414092</xmax>
+        <ymax>266.7640032948929</ymax>
+    </bndbox>
+</object>
+</annotation>

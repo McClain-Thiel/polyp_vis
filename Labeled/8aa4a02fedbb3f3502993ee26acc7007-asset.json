@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8aa4a02fedbb3f3502993ee26acc7007",
+        "name": "144.jpg",
+        "path": "file:/Users/McClain/Desktop/polyp_vis/data_polyps/train/polyps/144.jpg",
+        "size": {
+            "width": 112,
+            "height": 137
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IPEYODwF7",
+            "type": "RECTANGLE",
+            "tags": [
+                "polyp"
+            ],
+            "boundingBox": {
+                "height": 134.5931106792144,
+                "width": 111.019125,
+                "left": 0.980875,
+                "top": 2.4068893207855973
+            },
+            "points": [
+                {
+                    "x": 0.980875,
+                    "y": 2.4068893207855973
+                },
+                {
+                    "x": 112,
+                    "y": 2.4068893207855973
+                },
+                {
+                    "x": 112,
+                    "y": 137
+                },
+                {
+                    "x": 0.980875,
+                    "y": 137
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
